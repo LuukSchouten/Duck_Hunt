@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#background{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+#duckgif{
+    position: absolute;
+    left: 680px;
+    top: 350px;
+    width: 148px;
+    height: 100px;
+}
+
+p{
+    position: absolute;
+}
+
+
+#hit{
+    font-size: 2em;
+    margin-left: 0.3em;
+    margin-top: 0.95em;
+}
+
+#hitteller{
+    font-size: 2em;
+    margin-left: 2em;
+}
+
+#miss{
+    font-size: 2em;
+    margin-left: 5em;
+    margin-top: 0.95em;
+}
+
+#missteller{
+    font-size: 2em;
+    margin-left: 7.4em;
+}
